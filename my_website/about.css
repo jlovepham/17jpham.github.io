@@ -53,24 +53,12 @@ li a:hover {
     color: white;
 }
 ul {
-    border: 1px solid #555;
-}
-
-li {
-    text-align: left;
-    border-bottom: 1px solid #555;
-}
-
-li:last-child {
-    border-bottom: none;
-}
-ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     width: 25%;
     background-color: #f1f1f1;
-    height: 20%; 
+    height: 19%; 
     position: fixed; 
     overflow: auto;
 }
