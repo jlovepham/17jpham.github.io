@@ -3,6 +3,7 @@ body{
     color:#ffffff;
     background-image: url("images/beautiful-space.jpg");
     background-size: cover;
+    background-attachment: fixed;
 }
 ul{
     height: 40px;
