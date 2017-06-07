@@ -1,6 +1,6 @@
 body{
     font-family:"Comic Sans MS", fantasy;
-    color:#ffffff;
+    color: #ffffff;
     background-image: url("images/space.jpg");
     background-size: cover;
 }
@@ -23,17 +23,12 @@ ul li a{
 ul li a:hover{
     color: black;
 }
-.pic {
-    float: left;
-    margin: 10px 50px 10px 50px;
-}
-td{
+h1 {
     text-align: center;
 }
-.quote{
-    font-style: italic;
-    font-size: 200%
+break {
+    display: inline-block;
 }
-.tabler{
-    float:left;
+img {
+    padding: 10px
 }

@@ -23,3 +23,17 @@ ul li a{
 ul li a:hover{
     color: black;
 }
+p {
+    font-size: medium;
+}
+.home{
+    text-align: center;
+    font-size: 400%;
+}
+.home2{
+    float:right;
+    margin: 0 0 10px 10px;
+}
+.home3{
+    font-size: 200%
+}
